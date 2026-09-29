@@ -21,9 +21,24 @@ Based in Morocco · Arabic, French, and English
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Methods:** data cleaning · data transformation · KPI analysis · dashboard design · ETL · reporting automation · data validation · requirements analysis
+**Methods**
 
-**Exploring:** machine learning, LLMs, and retrieval-augmented generation (RAG). My RAG portfolio project is currently in planning.
+![Data cleaning](https://img.shields.io/badge/Data%20cleaning-2563EB?style=flat-square)
+![Data transformation](https://img.shields.io/badge/Data%20transformation-2563EB?style=flat-square)
+![KPI analysis](https://img.shields.io/badge/KPI%20analysis-2563EB?style=flat-square)
+![Dashboard design](https://img.shields.io/badge/Dashboard%20design-2563EB?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-2563EB?style=flat-square)
+![Reporting automation](https://img.shields.io/badge/Reporting%20automation-2563EB?style=flat-square)
+![Data validation](https://img.shields.io/badge/Data%20validation-2563EB?style=flat-square)
+![Requirements analysis](https://img.shields.io/badge/Requirements%20analysis-2563EB?style=flat-square)
+
+**Exploring**
+
+![Machine learning](https://img.shields.io/badge/Machine%20learning-7C3AED?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+
+My RAG portfolio project is currently in planning.
 
 ## Portfolio projects
 
