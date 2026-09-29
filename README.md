@@ -1,22 +1,29 @@
-# Hi, I'm Ibtissam Labyady 👋
+## Hi, I'm Ibtissam Labyady 👋
 
-**Data Analyst & Data Engineer** working with SQL, Python, Power BI, and reporting automation. I focus on turning raw data into clear metrics and useful decisions, from understanding the business question to validating data and presenting the result.
+I'm a **Data Analyst & Data Engineer** focused on turning raw data into clear metrics, dashboards, and repeatable reports. I work across the data lifecycle, from understanding a business question and validating its data to presenting useful results.
 
-Based in Morocco. I work in Arabic, French, and English.
+Based in Morocco · Arabic, French, and English
 
-## What I work on
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c76285652a997502)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtissam-labyady/)
 
-- **Analytics & BI:** data cleaning, SQL analysis, KPI definitions, dashboards, and reporting.
-- **Data workflows:** repeatable transformations, validation, and reporting automation.
-- **AI exploration:** retrieval-augmented generation (RAG) and evaluation of answers against source material.
+---
 
-## Skills
+### Things I work with
 
-- **Data analysis:** SQL, Python, data cleaning, data transformation, exploratory analysis, and KPI tracking.
-- **Business intelligence:** Power BI, Tableau, Excel, Google Sheets, dashboard design, data visualization, and reporting.
-- **Data engineering & automation:** ETL, data integration, automated reporting, web scraping, APIs, and Git.
-- **Business & quality:** requirements analysis, data validation, anomaly detection, functional testing, and stakeholder collaboration.
-- **AI interests:** machine learning, generative AI, LLMs, RAG, and AI agents. I am building portfolio examples in this area; the linked RAG project is currently at the planning stage.
+**Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Methods:** data cleaning · data transformation · KPI analysis · dashboard design · ETL · reporting automation · data validation · requirements analysis
+
+**Exploring:** machine learning, LLMs, and retrieval-augmented generation (RAG). My RAG portfolio project is currently in planning.
 
 ## Portfolio projects
 
@@ -33,8 +40,3 @@ I will add runnable code, documented sample data, real screenshots, and measured
 ## Background
 
 I studied computer science at **École des Sciences de l'Information (ESI)** and have worked in data analysis and consulting roles. My approach connects technical delivery with requirements, data quality, and the needs of the people using the result.
-
-## Connect
-
-- [Upwork](https://www.upwork.com/freelancers/~01c76285652a997502) — freelance work and project inquiries
-- [LinkedIn](https://www.linkedin.com/in/ibtissam-labyady/) — professional background and networking
