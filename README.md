@@ -10,6 +10,14 @@ Based in Morocco. I work in Arabic, French, and English.
 - **Data workflows:** repeatable transformations, validation, and reporting automation.
 - **AI exploration:** retrieval-augmented generation (RAG) and evaluation of answers against source material.
 
+## Skills
+
+- **Data analysis:** SQL, Python, data cleaning, data transformation, exploratory analysis, and KPI tracking.
+- **Business intelligence:** Power BI, Tableau, Excel, Google Sheets, dashboard design, data visualization, and reporting.
+- **Data engineering & automation:** ETL, data integration, automated reporting, web scraping, APIs, and Git.
+- **Business & quality:** requirements analysis, data validation, anomaly detection, functional testing, and stakeholder collaboration.
+- **AI interests:** machine learning, generative AI, LLMs, RAG, and AI agents. I am building portfolio examples in this area; the linked RAG project is currently at the planning stage.
+
 ## Portfolio projects
 
 These repositories are **project briefs and roadmaps**. Their planned features and expected outcomes are labeled in each README; they are not yet completed case studies.
