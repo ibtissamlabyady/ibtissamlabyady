@@ -42,15 +42,15 @@ My RAG portfolio project is currently in planning.
 
 ## Portfolio projects
 
-These repositories are **project briefs and roadmaps**. Their planned features and expected outcomes are labeled in each README; they are not yet completed case studies.
+I am building these projects progressively. The sales dashboard has a **working local MVP with synthetic data**; the reporting pipeline and RAG assistant are currently project briefs and roadmaps. Each README distinguishes implemented features from planned work.
 
 | Project | Focus | Current status |
 | --- | --- | --- |
-| [Data Analysis Dashboard](https://github.com/ibtissamlabyady/data-analysis-dashboard) | Business KPIs, data analysis, and interactive BI | Planning |
+| [Data Analysis Dashboard](https://github.com/ibtissamlabyady/data-analysis-dashboard) | Sales KPIs, Python cleaning, SQL, and interactive Streamlit charts | Working MVP · Synthetic data |
 | [Automated Reporting Pipeline](https://github.com/ibtissamlabyady/automated-reporting-pipeline) | Validated, repeatable report generation | Planning |
 | [RAG AI Assistant](https://github.com/ibtissamlabyady/rag-ai-assistant) | Document retrieval and answers with citations | Planning |
 
-I will add runnable code, documented sample data, real screenshots, and measured results as each project develops.
+The dashboard includes runnable Python and SQL, documented sample data, a real application screenshot, CSV export, and 14 automated tests. Its figures demonstrate the analysis workflow; they do not represent client results. I will extend the other projects with code and evidence as they develop.
 
 ## Background
 
